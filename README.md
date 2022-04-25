@@ -11,8 +11,7 @@ side_sticker
 
  About me ....
 
-✔ Callme: He/His or TeamWorker 😊
-✔ I’m currently Developing a youtube spam comments filtering tool for Sinhala language
+✔ Callme: He/His or TeamWorker
 ✔ I’m currently learning about Android App Development.🥰
 ✔ I’m currently NOT looking to collaborate.
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉
