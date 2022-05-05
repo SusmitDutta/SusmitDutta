@@ -5,10 +5,6 @@ Hello, I am Susmit Dutta a third year undergraduate from CIEM Kolkata.
 a passionate self-learner,who is obsessed with Data science and always looking to find patterns of which are hidden in the data
  Thought : "Life is full of choices…choose wisely!” 
 
-
-
-side_sticker
-
  About me ....
 
 ✔ Callme: He/His or TeamWorker
